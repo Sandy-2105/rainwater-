@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+#h { 
+    /* background-color: green; */
+    color:aqua;}
+#intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#o{
+    font-style:oblique;
+
+}
+.div{
+    background-color:aqua;
+}
+img{
+    border-style: dashed;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
